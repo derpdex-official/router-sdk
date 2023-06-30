@@ -917,10 +917,10 @@
     exec-sh "^0.3.2"
     minimist "^1.2.0"
 
-"@derpdex/sdk@^1.0.3":
-  version "1.0.3"
-  resolved "https://registry.yarnpkg.com/@derpdex/sdk/-/sdk-1.0.3.tgz#5b61731d991448e51a6e92b728bf3c4fea79cd39"
-  integrity sha512-6kQLtfg6/YfK+ICVJ4xYi/JtqVkd993fSLV0AHXifUP0MTolvEbjedYWdl0Ytc5q2dkc2dSKaWoPWn6Sh7h46Q==
+"@derpdex/sdk@^1.0.4":
+  version "1.0.4"
+  resolved "https://registry.yarnpkg.com/@derpdex/sdk/-/sdk-1.0.4.tgz#68d66863dceec16b84ddd8f773ef54738114e1ab"
+  integrity sha512-AiYJCHdLThMuORaFqcdp/O7PbOwMH9PZSrvlItWalnUBzbulcdgbAlvK5ehr6K7VrCCl67/GRJgCz5m8TNlLGw==
   dependencies:
     "@ethersproject/abi" "^5.0.12"
     "@ethersproject/solidity" "^5.0.9"
