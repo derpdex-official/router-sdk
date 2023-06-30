@@ -1,6 +1,6 @@
 {
   "name": "@derpdex/router-sdk",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "An sdk for routing swaps.",
   "publishConfig": {
     "access": "public"
